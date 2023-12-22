@@ -7,11 +7,11 @@ In this assignment, you have to create an application for graph processing which
 2. Take as input the density of the graph
 3. Store the graph in an adjacency matrix.
 4. Add the following features/functions to your application
-  ◉ Give a node to show its degree
-  ◉ Find the node with the maximum degree
-  ◉ Find the node with a minimum degree
-  ◉ Display the raw adjacency matrix 
-  ◉ Give a node to find all its neighbors
+  1. Give a node to show its degree
+  2. Find the node with the maximum degree
+  3. Find the node with a minimum degree
+  4. Display the raw adjacency matrix 
+  5. Give a node to find all its neighbors
 
 ## Approach
 QGraphicsScene- for displaying the graph
@@ -25,9 +25,9 @@ QTextEdit - for displaying the adjacency matrix of the graphs
 QPushButtons - for buttons
 
 ## Screenshot of GUI
-○ 0<=density<=1
-○ Adjacency Matrix have a scroll effect to see it
-○ Fing Neighbors push-button produces message-box
+1. 0<=density<=1
+2. Adjacency Matrix have a scroll effect to see it
+3. Fing Neighbors push-button produces message-box
 ![ss](https://github.com/maybeanns/GraphVisualRep-QT/assets/140887479/859174f2-380d-4e0c-bd66-c81f14466441)
 
 ### Author
