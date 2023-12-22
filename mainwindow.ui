@@ -1,3 +1,5 @@
+<!-- This is the main XML code for designing the code, its like the CSS for a website + its more imp than CSS -->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
  <class>MainWindow</class>
