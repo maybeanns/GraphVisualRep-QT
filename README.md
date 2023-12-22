@@ -24,4 +24,4 @@ QLineEdit Widget - for input boxes
 QTextEdit - for displaying the adjacency matrix of the graphs
 QPushButtons - for buttons
 
-# ~Anns Khan - CS - GIKI
+## ~Anns Khan - CS - GIKI
